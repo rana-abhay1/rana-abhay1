@@ -12,6 +12,6 @@
 
 # Tech Stack
 
-##LLanguages
+## Languages
 
 
