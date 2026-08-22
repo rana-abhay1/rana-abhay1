@@ -23,7 +23,7 @@
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,c," alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,python,java," alt="Languages" />
 </p>
 
 ### Web 
@@ -62,4 +62,6 @@
   <a href="mailto:rana.abhay1@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  
 </p>
